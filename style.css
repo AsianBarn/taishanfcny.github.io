@@ -181,7 +181,7 @@ tbody tr:hover{
   background: rgba(78,163,255,0.06);
 }
 
-img {
+#roster img {
   position: relative;
   weight: 150px;
   height: 150px;
