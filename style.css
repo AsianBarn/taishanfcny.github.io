@@ -192,7 +192,13 @@ tbody tr:hover{
 
 #roster img {
   position: relative;
-  weight: 150px;
+  width: 800px;
+  height: 300px;
+}
+
+#roster > li > img {
+  position: relative;
+  width: 150px;
   height: 150px;
 }
 
