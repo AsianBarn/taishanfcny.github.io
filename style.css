@@ -190,13 +190,13 @@ tbody tr:hover{
   background: rgba(78,163,255,0.06);
 }
 
-#roster img {
+#team-roster img {
   position: relative;
   width: 800px;
   height: 300px;
 }
 
-#roster > li > img {
+#roster img {
   position: relative;
   width: 150px;
   height: 150px;
