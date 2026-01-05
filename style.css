@@ -103,8 +103,9 @@ header > img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
-  position: sticky;
+  width: 300px;
+  height: 300px;
+  position: relative;
 }
 
 nav ul {
