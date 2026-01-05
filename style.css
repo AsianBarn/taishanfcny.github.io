@@ -120,12 +120,6 @@ nav a:hover{
   text-decoration: none;
 }
 
-img {
-  position: relative;
-  width: 160px;
-  height: 160px;
-}
-
 #schedule {
   background: linear-gradient(180deg, #ffffff, #f7f9ff);
 }
@@ -185,6 +179,12 @@ tbody td{
 
 tbody tr:hover{
   background: rgba(78,163,255,0.06);
+}
+
+img {
+  position: relative;
+  weight: 150px;
+  height: 150px;
 }
 
 #roster ul{
