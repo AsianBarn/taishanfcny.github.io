@@ -120,6 +120,12 @@ nav a:hover{
   text-decoration: none;
 }
 
+img {
+  position: relative;
+  width: 160px;
+  height: 100%;
+}
+
 #schedule {
   background: linear-gradient(180deg, #ffffff, #f7f9ff);
 }
